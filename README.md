@@ -1,3 +1,8 @@
+# User Information
+- Name: Theodore Gyaqueh Abbey
+- Student ID: 11343393
+<br > <br />
+
 # Medical Appointment & Pharmacy Management System
 
 This project contains two Windows Forms applications for managing medical appointments and pharmacy inventory, both connecting to SQL Server databases using ADO.NET.
